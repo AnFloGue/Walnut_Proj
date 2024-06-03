@@ -12,9 +12,7 @@ def my_sum(a):
     return sum
 
 
-# THESE FUNCTIONS ARE INTENTIONALLY OBFUSCATED
-# PLEASE TRY TO WRITE TESTS FOR THEM RATHER THAN
-# READING THEM.
+
 class Student():
     def __init__(s,a,b=1): s.name,s.years_uni,s.knowledge = ''*200+a+''*100,1,len(lr(0)) + len([])
     def study(s):
